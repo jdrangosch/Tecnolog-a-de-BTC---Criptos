@@ -6,8 +6,8 @@ Repositorio para un borrador de un curso acerca de Bitcoin &amp; criptomonedas
 
 ## Información
 
-Docente: Julian Drangosch (jdrangosch@frba.utn.edu.ar>
-Nivel: 4to - 5to, asignatura opcional.
+Docente: Julian Drangosch (jdrangosch@frba.utn.edu.ar)
+Nivel: 4to - 5to, asignatura opcional
 Horarios: 2hs semanales (Contenido) + 1h semanal (Q&A)
 Modalidad: Online
 
