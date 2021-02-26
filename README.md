@@ -27,4 +27,5 @@ por lo que se requiere algo de experiencia en programación.
 ### NOTA: Este listado es un borrador y está sujeto a modificaciónes.
 
 | # | Fecha | Conferenciante | Tema | Lecturas | Notas de la conferencia | Laboratorios |
-|---| ----- | ---------- | ------- | ---------- | -------- ------- | - |
+|---|------|----------|-------|----------|---------------|-|
+| 1 | 2018-02-07 | Neha and Tadge | Introduction. Signatures, hashing, hash chains, e-cash, and motivation | [Untraceable Electronic Cash](http://www.wisdom.weizmann.ac.il/~/naor/PAPERS/untrace.pdf) | [tadge's slides](https://github.com/mit-dci/mas.s62/tree/master/slides/lec01-tadge.pdf), [neha's slides](https://github.com/mit-dci/mas.s62/tree/master/slides/lec01-neha.ppt) |  |
