@@ -28,7 +28,7 @@ por lo que se requiere algo de experiencia en programación.
 
 | # | Fecha | Conferenciante | Tema | Referencias | Slides | Laboratorios |
 |---|------|----------|-------|----------|---------------|-|
-| 1 | XXXX-XX-XX | Julián Drangosch | Introduction. Signatures, hashing, hash chains, e-cash, and motivation | [Untraceable Electronic Cash](http://www.wisdom.weizmann.ac.il/~/naor/PAPERS/untrace.pdf) | [tadge's slides](https://github.com/mit-dci/mas.s62/tree/master/slides/lec01-tadge.pdf), [neha's slides](https://github.com/mit-dci/mas.s62/tree/master/slides/lec01-neha.ppt) |  |
+| 1 | XXXX-XX-XX | Julián Drangosch | Introduction. Signatures, hashing, hash chains, e-cash, and motivation | [Untraceable Electronic Cash](http://www.wisdom.weizmann.ac.il/~/naor/PAPERS/untrace.pdf) | xxx |  |
 
 ## Listado de clases complementarias
 
