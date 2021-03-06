@@ -34,8 +34,17 @@ por lo que se requiere algo de experiencia en programación.
 | 4 | XXXX-XX-XX | Julián Drangosch | Bitcoin peer to peer Network | Funcionalidad de la red, tipos de nodos, formatos de mensajes, mensajes de control, propagación de transacciones y bloques, mempool, estimación de tarifa de transacciones, bloques compactos | xxx | xxx |  |
 | 5 | XXXX-XX-XX | Julián Drangosch | Billeteras de criptomonedas | Funcionalidad de la wallet, SPV, Wallets jerarquicas deterministas, Bip32,Bip39,Bip43, Bip44, problemas comúnes, seguridad & privacidad en el respaldo.  | xxx | xxx |  |
 | 6 | XXXX-XX-XX | Julián Drangosch | Minería de Bitcoin | Aspectos técnicos de la minería de Bitcoin, detalle del protocolo Stratum, Operación del server Stratum, pools de minería, métodos de pago, vectores de ataque de pool, minería industrial de Bitcoin | xxx | xxx |  |
-| 7 | XXXX-XX-XX | Julián Drangosch | Minería de Bitcoin | Aspectos técnicos de la minería de Bitcoin, detalle del protocolo Stratum, Operación del server Stratum, pools de minería, métodos de pago, vectores de ataque de pool, minería industrial de Bitcoin | xxx | xxx |  |
-| 6 | XXXX-XX-XX | Julián Drangosch | Minería de Bitcoin | Aspectos técnicos de la minería de Bitcoin, detalle del protocolo Stratum, Operación del server Stratum, pools de minería, métodos de pago, vectores de ataque de pool, minería industrial de Bitcoin | xxx | xxx |  |
+| 7 | XXXX-XX-XX | Julián Drangosch | Actores hostiles y vectores de ataques | 51% atack, ataque de doble gasto, ataque sybil, hacks y CVEs, | xxx | xxx |  |
+| 8 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 9 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 10 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 11 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 12 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 13 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 14 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 15 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 16 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+
 
 
 ## Listado de clases complementarias
