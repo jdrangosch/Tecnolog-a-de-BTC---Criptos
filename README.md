@@ -27,7 +27,7 @@ por lo que se requiere algo de experiencia en programación.
 ### NOTA: Este listado es un borrador y está sujeto a modificaciónes.
 
 | # | Fecha | Conferenciante | Tema | Detalle | Referencias | Slides | Laboratorios |
-|---|------|----------|-------|-------|----------|---------------|-|
+|---|------|------|------|---------------|---------------|---------------|-|
 | 1 | XXXX-XX-XX | Julián Drangosch | Introducción a Bitcoin | Introducción al curso, Bitcoin pre history, Bitcoin Paper | https://bitcointalk.org/index.php?topic=5126554.0, https://danhedl.medium.com/planting-bitcoin-soil-3-4-d3cd47fcfa3a,  | xxx |  |
 | 2 | XXXX-XX-XX | Julián Drangosch | Matemática fundacional | Espacios finitos, curvas elipticas, curvas elipticas sobre espacios finitos, grupos matemáticos, ECDSA, direcciónes Bitcoin, transacciones Bitcoin | xxx | xxx |  |
 | 3 | XXXX-XX-XX | Julián Drangosch | Problema del doble gasto, cadena de bloques, prueba de trabajo y minería, reajuste de dificultad, politica monetaria, estructura de transacciones y bloques, pruevas de pertenencia y verificación de pago simplificado, divergencias en la cadena y cómo se determina la cadena con mayor trabajo acumulado | xxx | xxx |  |
