@@ -43,7 +43,7 @@ por lo que se requiere algo de experiencia en programación.
 | 13 | XXXX-XX-XX | Julián Drangosch | Anonimidad y Seguridad | Introducción a anonimidad, como deanonimizar Bitcoin & silk road, mixers, coinjoin, whirpool y stonewall, confidential transactions. Seguridad y almacenamiento, protocolo de seguridad de casas de custodia, herencias y planeamiento  | xxx | xxx |  |
 | 14 | XXXX-XX-XX | Julián Drangosch | Taproot | MAST, Taproot, Tapscript, P2TR, Segwit v1, firmas schnor, métodos de activación Bip8 y 9 | xxx | xxx |  |
 | 15 | XXXX-XX-XX | Julián Drangosch | Finanzas Decentralizadas | decentralized credit, algorithmic money market, creation of synthetic assets, decentralized on-chain protocol for token exchange, | xxx | xxx |  |
-| 16 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 16 | XXXX-XX-XX | Julián Drangosch | Final de cursada | Presentaciónes de trabajos finales y/o examen final | xxx | xxx |  |
 
 
 
