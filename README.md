@@ -34,12 +34,12 @@ por lo que se requiere algo de experiencia en programación.
 | 4 | XXXX-XX-XX | Julián Drangosch | Bitcoin peer to peer Network | Funcionalidad de la red, tipos de nodos, formatos de mensajes, mensajes de control, propagación de transacciones y bloques, mempool, estimación de tarifa de transacciones, bloques compactos | xxx | xxx |  |
 | 5 | XXXX-XX-XX | Julián Drangosch | Billeteras de criptomonedas | Funcionalidad de la wallet, SPV, Wallets jerarquicas deterministas, Bip32,Bip39,Bip43, Bip44, problemas comúnes, seguridad & privacidad en el respaldo.  | xxx | xxx |  |
 | 6 | XXXX-XX-XX | Julián Drangosch | Minería de Bitcoin | Aspectos técnicos de la minería de Bitcoin, detalle del protocolo Stratum, Operación del server Stratum, pools de minería, métodos de pago, vectores de ataque de pool, minería industrial de Bitcoin | xxx | xxx |  |
-| 7 | XXXX-XX-XX | Julián Drangosch | Actores hostiles y vectores de ataques | 51% atack, ataque de doble gasto, ataque sybil, hacks y CVEs, | xxx | xxx |  |
-| 8 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
-| 9 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
-| 10 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
-| 11 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
-| 12 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 7 | XXXX-XX-XX | Julián Drangosch | Actores hostiles y vectores de ataques | 51% atack, ataque de doble gasto, ataque sybil, hacks y CVEs, Overflow incident, March 2013 Chain Fork Post-Mortem and reorg| xxx | xxx |  |
+| 8 | XXXX-XX-XX | Julián Drangosch | Bitcoin Core | Funcionamiento básico de Bitcoin Core, basics of Remote Procedure Calls, create addresses, transactions, connect to peer nodes. creating an invoice, monitors incoming network for transactions for invoice payment | xxx | xxx |  |
+| 9 | XXXX-XX-XX | Julián Drangosch | Lightning Network y DLCs | Problemas de escalabilidad, canales de pago, saltos múltiples, flujos de mensajes y funcionalidad, DCLs, RGB Smart Contracts | xxx | xxx |  |
+| 10 | XXXX-XX-XX | Julián Drangosch | Altcoins y el ecosistema de las criptomonedas | Historia de las altcoins, Altcoins en detalle (LTC, XMR, XRP,etc),atomic cross chain swaps, Ethereum and VM Smart Contracts | xxx | xxx |  |
+| 11 | XXXX-XX-XX | Julián Drangosch | Sidechains | Two way peg, merge mining, proof of reusable work, modelos de federaciones, caso de estudio RSK y Liquid Network | xxx | xxx |  |
+| 12 | XXXX-XX-XX | Julián Drangosch | Anonimidad y Seguridad | Introducción a anonimidad, como deanonimizar Bitcoin & silk road, mixers, coinjoin, whirpool y stonewall. Seguridad y almacenamiento, protocolo de seguridad de casas de custodia, herencias y planeamiento  | xxx | xxx |  |
 | 13 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
 | 14 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
 | 15 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
