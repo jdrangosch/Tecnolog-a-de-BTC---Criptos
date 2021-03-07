@@ -37,12 +37,12 @@ por lo que se requiere algo de experiencia en programación.
 | 7 | XXXX-XX-XX | Julián Drangosch | Actores hostiles y vectores de ataques | 51% atack, ataque de doble gasto, ataque sybil, hacks y CVEs, Overflow incident, March 2013 Chain Fork Post-Mortem and reorg| xxx | xxx |  |
 | 8 | XXXX-XX-XX | Julián Drangosch | Bitcoin Core | Funcionamiento básico de Bitcoin Core, basics of Remote Procedure Calls, create addresses, transactions, connect to peer nodes. creating an invoice, monitors incoming network for transactions for invoice payment | xxx | xxx |  |
 | 9 | XXXX-XX-XX | Julián Drangosch | Maleabilidad de las transacciones | Maleabilidad de las Tx, USAF Wars ,Segregated Witness, P2WPK, P2WSH, sighash noinput bip118 | xxx | xxx |  |
-| 10 | XXXX-XX-XX | Julián Drangosch | Lightning Network y DLCs | Problemas de escalabilidad, canales de pago, saltos múltiples, flujos de mensajes y funcionalidad, DCLs, RGB Smart Contracts | xxx | xxx |  |
+| 10 | XXXX-XX-XX | Julián Drangosch | Lightning Network y DLCs | Problemas de escalabilidad, canales de pago, saltos múltiples, flujos de mensajes y funcionalidad, DCLs, RGB Smart Contracts, liquidity pools | xxx | xxx |  |
 | 11 | XXXX-XX-XX | Julián Drangosch | Altcoins y el ecosistema de las criptomonedas | Historia de las altcoins, Altcoins en detalle (LTC, XMR, XRP,etc),atomic cross chain swaps, Ethereum and VM Smart Contracts | xxx | xxx |  |
 | 12 | XXXX-XX-XX | Julián Drangosch | Sidechains | Two way peg, merge mining, proof of reusable work, modelos de federaciones, caso de estudio RSK y Liquid Network | xxx | xxx |  |
 | 13 | XXXX-XX-XX | Julián Drangosch | Anonimidad y Seguridad | Introducción a anonimidad, como deanonimizar Bitcoin & silk road, mixers, coinjoin, whirpool y stonewall, confidential transactions. Seguridad y almacenamiento, protocolo de seguridad de casas de custodia, herencias y planeamiento  | xxx | xxx |  |
 | 14 | XXXX-XX-XX | Julián Drangosch | Taproot | MAST, Taproot, Tapscript, P2TR, Segwit v1, firmas schnor, métodos de activación Bip8 y 9 | xxx | xxx |  |
-| 15 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 15 | XXXX-XX-XX | Julián Drangosch | Finanzas Decentralizadas | decentralized credit, algorithmic money market, creation of synthetic assets, decentralized on-chain protocol for token exchange, | xxx | xxx |  |
 | 16 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
 
 
@@ -53,7 +53,10 @@ por lo que se requiere algo de experiencia en programación.
 
 | # | Fecha | Conferenciante | Tema | Detalle | Referencias | Slides | Trabajos |
 |---|------|------|------|---------------|---------------|---------------|-|
-| 1 | XXXX-XX-XX | Julián Drangosch | xxx | xxx | xxx | xxx |  |
+| 1 | XXXX-XX-XX | Julián Drangosch | Bitcoin cómo una organización descentralizada | xxx | xxx | xxx |  |
+| 2 | XXXX-XX-XX | Julián Drangosch | Bitcoin cómo un sistema antifrágil | xxx | xxx | xxx |  |
+| 3 | XXXX-XX-XX | Julián Drangosch | Bitcoin y los ciclos monetarios | xxx | xxx | xxx |  |
+| 4 | XXXX-XX-XX | Julián Drangosch | Bitcoin y cómo funciona la innovación? | xxx | xxx | xxx |  |
 
 
 
