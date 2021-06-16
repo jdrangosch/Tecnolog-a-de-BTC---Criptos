@@ -53,6 +53,7 @@ Andreas m. Antonopoulos (2021) - Mastering Ethereum 2da edición - disponible en
 Andreas m. Antonopoulos (2021) - Mastering the Lightning Network - disponible en https://github.com/lnbook/lnbook
 Jimmy Song (2019) - Programming Bitcoin: Learn How to Program Bitcoin from Scratch  - disponible en https://github.com/jimmysong/programmingbitcoin
 
+
 ## Listado de clases complementarias
 
 ### NOTA: Este listado es un borrador y está sujeto a modificaciónes.
