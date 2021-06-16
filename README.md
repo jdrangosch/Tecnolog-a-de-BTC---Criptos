@@ -46,7 +46,12 @@ por lo que se requiere algo de experiencia en programación.
 | 15 | XXXX-XX-XX | Julián Drangosch | Finanzas Decentralizadas | decentralized credit, algorithmic money market, creation of synthetic assets, decentralized on-chain protocol for token exchange, | xxx | xxx |  |
 | 16 | XXXX-XX-XX | Julián Drangosch | Final de cursada | Presentaciónes de trabajos finales y/o examen final | xxx | xxx |  |
 
+## Bibliografía
 
+Andreas m. Antonopoulos (2017) - Mastering Bitcoin 2da edición - disponible en https://github.com/bitcoinbook/bitcoinbook
+Andreas m. Antonopoulos (2021) - Mastering Ethereum 2da edición - disponible en https://github.com/ethereumbook/ethereumbook
+Andreas m. Antonopoulos (2021) - Mastering the Lightning Network - disponible en https://github.com/lnbook/lnbook
+Jimmy Song (2019) - Programming Bitcoin: Learn How to Program Bitcoin from Scratch  - disponible en https://github.com/jimmysong/programmingbitcoin
 
 ## Listado de clases complementarias
 
